@@ -11,6 +11,10 @@ https://ridero.ru/books/analiz_raspredeleniya_v_excel/
 
 https://ridero.ru/books/statisticheskii_analiz_vzaimosvyazi_v_excel/
 
+Арьков В.Ю. Анализ рядов динамики в электронных таблицах : Учебное пособие. — [б. м.] : Издательские решения, 2020. — 130 с.
+
+https://ridero.ru/books/analiz_ryadov_dinamiki_v_excel/
+
 Арьков В.Ю. Применение гистограмм в управлении качеством: Учебное пособие. — [б. м.] : Издательские решения, 2019. — 94 с.
 
 https://ridero.ru/books/primenenie_gistogramm_v_upravlenii_kachestvom/
@@ -18,10 +22,6 @@ https://ridero.ru/books/primenenie_gistogramm_v_upravlenii_kachestvom/
 Арьков В.Ю. Бизнес-аналитика. Сводные таблицы. Часть 1 : Учебное пособие. — [б. м.] : Издательские решения, 2020. — 180 с.
 
 https://ridero.ru/books/biznes-analitika_v_excel_svodnye_tablicy/
-
-Арьков В.Ю. Анализ рядов динамики в электронных таблицах : Учебное пособие. — [б. м.] : Издательские решения, 2020. — 130 с.
-
-https://ridero.ru/books/analiz_ryadov_dinamiki_v_excel/
 
 Арьков В.Ю. Бизнес-аналитика. Сводные таблицы. Часть 2 : Учебное пособие. — [б. м.] : Издательские решения, 2020. — 160 с.
 
@@ -35,4 +35,34 @@ https://ridero.ru/books/izvlechenie_preobrazovanie_i_zagruzka_dannykh_v_excel/
 
 https://ridero.ru/books/analiz_i_vizualizaciya_dannykh_v_elektronnykh_tablicakh/
 
+Арьков В.Ю. Анализ больших данных : Учебное пособие. — [б. м.] : Издательские решения, 2021. — 220 с.
 
+https://ridero.ru/books/analiz_bolshikh_dannykh/
+
+Арьков В.Ю. Эконометрические оценки : Учебное пособие. — [б. м.] : Издательские решения, 2021. — 276 с.
+
+https://ridero.ru/books/ekonometricheskie_ocenki/
+
+Арьков В.Ю. Введение в эконометрику : Учебное пособие. — [б. м.] : Издательские решения, 2021. — 170 с.
+
+https://ridero.ru/books/vvedenie_v_ekonometriku/
+
+Арьков В.Ю. Частотный анализ числовых и текстовых данных : Учебное пособие. — [б. м.] : Издательские решения, 2023. — 114 с.
+
+https://ridero.ru/books/chastotnyi_analiz_chislovykh_i_tekstovykh_dannykh/
+
+Арьков В.Ю. Анализ отчётности компании : Учебное пособие. — [б. м.] : Издательские решения, 2023. — 92 с.
+
+https://ridero.ru/books/analiz_otchyotnosti_kompanii/
+
+V. Arkov, "Uncertainty estimation in mechanical and electrical engineering," 2021 International Conference on Electrotechnical Complexes and Systems (ICOECS), 2021, pp. 436-440, doi: 10.1109/ICOECS52783.2021.9657299.
+
+https://doi.org/10.1109/ICOECS52783.2021.9657299
+
+https://ieeexplore.ieee.org/document/9657299
+
+V. Arkov, "Uncertainty Estimation in Machine Learning," 2023 International Russian Smart Industry Conference (SmartIndustryCon), Sochi, Russian Federation, 2023, pp. 130-135, 
+
+doi: 10.1109/SmartIndustryCon57312.2023.10110722
+
+https://ieeexplore.ieee.org/document/10110722
