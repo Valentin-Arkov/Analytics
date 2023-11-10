@@ -1,6 +1,36 @@
 # Analytics
 Бизнес-аналитика, статистика, эконометрика, машинное обучение
 
+## Видеоролики - лекции и лабы
+
+Бизнес-аналитика и статистика
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkLbZ2drBXp0gCFihYdsFUp2
+
+Статистика - Распределение
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkLHSYWYBp-4MUruHEWsvITN
+
+Лабораторные работы
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkL7dp97Z6s3vj3p6PnrNF8B
+
+Бизнес-аналитика в КИС
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkJRf3Ye9_Wv8z6ydcLhBWws
+
+Эконометрика
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkIk_f8jynInZ11EAH3Nr4g0
+
+Машинное обучение
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ_EhZOfFLi1SvIJZ4t7AVG
+
+Качество
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkJLNNBYXEjCiKgNeMa5ixi6
+
 ## Учебные пособия
 
 Арьков В.Ю. Анализ распределения в электронных таблицах : Учебное пособие. — [б. м.] : Издательские решения, 2019. — 158 с.
@@ -54,6 +84,8 @@ https://ridero.ru/books/chastotnyi_analiz_chislovykh_i_tekstovykh_dannykh/
 Арьков В.Ю. Анализ отчётности компании : Учебное пособие. — [б. м.] : Издательские решения, 2023. — 92 с.
 
 https://ridero.ru/books/analiz_otchyotnosti_kompanii/
+
+## Статьи
 
 V. Arkov, "Uncertainty estimation in mechanical and electrical engineering," 2021 International Conference on Electrotechnical Complexes and Systems (ICOECS), 2021, pp. 436-440, doi: 10.1109/ICOECS52783.2021.9657299.
 
