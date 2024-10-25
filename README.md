@@ -98,3 +98,7 @@ V. Arkov, "Uncertainty Estimation in Machine Learning," 2023 International Russi
 doi: 10.1109/SmartIndustryCon57312.2023.10110722
 
 https://ieeexplore.ieee.org/document/10110722
+
+## Датасет
+
+[Опрос](https://clck.ru/3ECBgy)
