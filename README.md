@@ -45,6 +45,10 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJLNNBYXEjCiKgNeMa5ixi6
 
 [Описание ЛР2](https://ridero.ru/books/statisticheskii_analiz_vzaimosvyazi_v_excel/)
 
+[ПИ-201бзу. Отчет по лабораторной работе №2](https://forms.yandex.ru/u/672713c8068ff038c49168cf/)
+
+[ПИ-333бз. Отчет по лабораторной работе №2](https://forms.yandex.ru/u/67271430e010db387df0380d/)
+
 ### Лабораторная работа №3
 
 [Описание ЛР3](https://ridero.ru/books/analiz_ryadov_dinamiki_v_excel/)
