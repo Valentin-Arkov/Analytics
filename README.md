@@ -53,9 +53,17 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJLNNBYXEjCiKgNeMa5ixi6
 
 [Описание ЛР3](https://ridero.ru/books/analiz_ryadov_dinamiki_v_excel/)
 
+[ПИ-201бзу. Отчет по лабораторной работе №3](https://forms.yandex.ru/u/672715122530c27390deec35/)
+
+[ПИ-333бз. Отчет по лабораторной работе №3](https://forms.yandex.ru/u/6727157f73cee705e0c68124/)
+
 ### Лабораторная работа №4
 
 [Описание ЛР4](https://ridero.ru/books/biznes-analitika_v_excel_svodnye_tablicy/)
+
+[ПИ-201бзу. Отчет по лабораторной работе №4](https://forms.yandex.ru/u/672715cd2530c273b4deec1b/)
+
+[ПИ-333бз. Отчет по лабораторной работе №4](https://forms.yandex.ru/u/6727160ee010db3895f03815/)
 
 ## Учебные пособия
 
