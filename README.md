@@ -31,27 +31,39 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ_EhZOfFLi1SvIJZ4t7AVG
 
 https://www.youtube.com/playlist?list=PLgkPUa9zaIkJLNNBYXEjCiKgNeMa5ixi6
 
-## Учебные пособия
+## Лабораторные работы
+
+## Лабораторная работа №1
 
 Арьков В.Ю. Анализ распределения в электронных таблицах : Учебное пособие. — [б. м.] : Издательские решения, 2019. — 158 с.
 
 https://ridero.ru/books/analiz_raspredeleniya_v_excel/
 
+[ПИ-201бзу. Отчет по лабораторной работе №1](https://forms.yandex.ru/u/672710dc90fa7bdae43fffed/)
+
+## Лабораторная работа №2
+
 Арьков В.Ю. Статистический анализ взаимосвязи : Учебное пособие. — [б. м.] : Издательские решения, 2019. — 146 с.
 
 https://ridero.ru/books/statisticheskii_analiz_vzaimosvyazi_v_excel/
+
+## Лабораторная работа №3
 
 Арьков В.Ю. Анализ рядов динамики в электронных таблицах : Учебное пособие. — [б. м.] : Издательские решения, 2020. — 130 с.
 
 https://ridero.ru/books/analiz_ryadov_dinamiki_v_excel/
 
-Арьков В.Ю. Применение гистограмм в управлении качеством: Учебное пособие. — [б. м.] : Издательские решения, 2019. — 94 с.
-
-https://ridero.ru/books/primenenie_gistogramm_v_upravlenii_kachestvom/
+## Лабораторная работа №4
 
 Арьков В.Ю. Бизнес-аналитика. Сводные таблицы. Часть 1 : Учебное пособие. — [б. м.] : Издательские решения, 2020. — 180 с.
 
 https://ridero.ru/books/biznes-analitika_v_excel_svodnye_tablicy/
+
+## Учебные пособия
+
+Арьков В.Ю. Применение гистограмм в управлении качеством: Учебное пособие. — [б. м.] : Издательские решения, 2019. — 94 с.
+
+https://ridero.ru/books/primenenie_gistogramm_v_upravlenii_kachestvom/
 
 Арьков В.Ю. Бизнес-аналитика. Сводные таблицы. Часть 2 : Учебное пособие. — [б. м.] : Издательские решения, 2020. — 160 с.
 
