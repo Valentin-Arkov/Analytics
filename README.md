@@ -151,7 +151,7 @@ https://ieeexplore.ieee.org/document/10110722
 
 Отправляем ссылку на файл на своем облачном диске.
 
-[ПИ-201бзу / ПИ-333бз. Экзаменационные билеты](https://github.com/Valentin-Arkov/Analytics/blob/main/BI-exam.pdf)
+[ПИ-201бзу / ПИ-333бз. Экзаменационные билеты](https://ridero.ru/books/analitika_dannykh/)
 
 [ПИ-201бзу. Загрузка ответов](https://forms.yandex.ru/u/6799caf284227cd1c23e3755/)
 
