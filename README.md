@@ -168,4 +168,5 @@ https://ieeexplore.ieee.org/document/10110722
 
 # Результаты экзамена
 
-![333](https://github.com/Valentin-Arkov/Analytics/blob/main/333ex.jpg)
+![Ответы и оценки](https://github.com/Valentin-Arkov/Analytics/blob/main/exam-marks.jpg)
+
