@@ -1,7 +1,7 @@
 # Analytics
 Бизнес-аналитика, статистика, эконометрика, машинное обучение
 
-# Материалы 2025
+# Факультатив 2025
 
 [1 Введение](https://github.com/Valentin-Arkov/Analytics/blob/main/ML-01-Intro.pdf)
 
