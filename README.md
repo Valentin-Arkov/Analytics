@@ -2,7 +2,7 @@
 Бизнес-аналитика, статистика, эконометрика, машинное обучение
 
 # Материалы 2025
-[Датасет](https://github.com/Valentin-Arkov/Analytics/blob/main/dataset-v2.csv)
+[Датасет](https://github.com/Valentin-Arkov/Analytics/blob/main/dataset-v3.csv)
 
 ## Видеоролики - лекции и лабы
 
