@@ -143,6 +143,8 @@ https://ieeexplore.ieee.org/document/10110722
 
 [Опрос](https://clck.ru/3ECBgy)
 
+[Dataset-Z](https://github.com/Valentin-Arkov/Analytics/blob/main/Dataset-2025-z.xlsx)
+
 # Экзамен
 
 Оценка за экзамен = Количество правильно решенных задач минус число пропущенных лабораторных работ
