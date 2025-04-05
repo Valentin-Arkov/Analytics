@@ -5,7 +5,9 @@
 
 [1 Введение](https://github.com/Valentin-Arkov/Analytics/blob/main/ML-01-Intro.pdf)
 
-[Датасет](https://github.com/Valentin-Arkov/Analytics/blob/main/dataset-v4.csv)
+[Датасет CSV](https://github.com/Valentin-Arkov/Analytics/blob/main/dataset-v4.csv)
+
+[Робастная регрессия](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Robust_regression.ipynb)
 
 ## Видеоролики - лекции и лабы
 
