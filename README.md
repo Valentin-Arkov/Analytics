@@ -41,6 +41,12 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ_EhZOfFLi1SvIJZ4t7AVG
 
 https://www.youtube.com/playlist?list=PLgkPUa9zaIkJLNNBYXEjCiKgNeMa5ixi6
 
+## Заочникам ПИ-333бзу / ПИ-210бзу
+
+[Регрессия: Boston Housing Dataset. Загрузка отчета](https://forms.yandex.ru/u/67f0d48f5056909794f92e79/)
+
+
+
 ## Лабораторные работы
 
 ### Лабораторная работа №1
