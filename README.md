@@ -11,7 +11,7 @@
 
 [Робастная регрессия - блокнот](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Robust_regression.ipynb)
 
-[Кластеризация - блокнот](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Clusterization.ipynb)
+[Кластеризация и классификация - блокнот](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Clusterization.ipynb)
 
 ## Видеоролики - лекции и лабы
 
