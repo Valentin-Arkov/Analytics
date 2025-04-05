@@ -1,7 +1,7 @@
 # Analytics
 Бизнес-аналитика, статистика, эконометрика, машинное обучение
 
-# Факультатив по машинному обучению 2025
+# Машинное обучение 2025
 
 [Введение - слайды](https://github.com/Valentin-Arkov/Analytics/blob/main/ML-01-Intro.pdf)
 
@@ -11,7 +11,7 @@
 
 [Робастная регрессия - блокнот](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Robust_regression.ipynb)
 
-[Кластеризация и классификация - блокнот](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Clusterization.ipynb)
+[Кластеризация, классификация, снижение размерности - блокнот](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Clusterization.ipynb)
 
 ## Видеоролики - лекции и лабы
 
