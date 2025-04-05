@@ -3,7 +3,7 @@
 
 # Факультатив по машинному обучению 2025
 
-[1 Введение](https://github.com/Valentin-Arkov/Analytics/blob/main/ML-01-Intro.pdf)
+[Введение - слайды](https://github.com/Valentin-Arkov/Analytics/blob/main/ML-01-Intro.pdf)
 
 [Датасет - CSV](https://github.com/Valentin-Arkov/Analytics/blob/main/dataset-v4.csv)
 
