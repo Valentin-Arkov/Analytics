@@ -13,6 +13,8 @@
 
 [Кластеризация, классификация, снижение размерности - блокнот](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Clusterization.ipynb)
 
+[Опрос по результатам курса](https://forms.yandex.ru/u/6808e330068ff05f21cdac09/)
+
 ## Видеоролики - лекции и лабы
 
 Бизнес-аналитика и статистика
