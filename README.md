@@ -17,9 +17,9 @@
 
 ## Полезные ссылки
 
-[Учебник Яндекса по машинному обучению](https://education.yandex.ru/handbook/ml)
+[Школа анализа данных Яндекса. Учебник по машинному обучению](https://education.yandex.ru/handbook/ml)
 
-
+[Google for Developers. Machine Learning](https://developers.google.com/machine-learning)
 
 ## Видеоролики - лекции и лабы
 
