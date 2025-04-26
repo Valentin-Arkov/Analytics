@@ -19,7 +19,13 @@
 
 [Школа анализа данных Яндекса. Учебник по машинному обучению](https://education.yandex.ru/handbook/ml)
 
+[Введение в Data Science и машинное обучение. Курс Анатолия Карпова на Степике](https://stepik.org/course/4852/)
+
+[Документация библиотеки  SciKitLearn](https://scikit-learn.org/)
+
 [Google for Developers. Machine Learning](https://developers.google.com/machine-learning)
+
+[Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Видеоролики - лекции и лабы
 
