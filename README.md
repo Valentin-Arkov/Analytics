@@ -57,11 +57,11 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ_EhZOfFLi1SvIJZ4t7AVG
 
 https://www.youtube.com/playlist?list=PLgkPUa9zaIkJLNNBYXEjCiKgNeMa5ixi6
 
-## Заочникам ПИ-333бзу / ПИ-210бзу
+## Заочникам ПИ-333бзу / ПИ-201бзу
 
 [Регрессия: Boston Housing Dataset. Загрузка отчета](https://forms.yandex.ru/u/67f0d48f5056909794f92e79/)
 
-
+[Классификация: Titanic Survival Dataset. Загрузка отчета](https://forms.yandex.ru/u/67f0e34fe010db9a889b6ed9/)
 
 ## Лабораторные работы
 
