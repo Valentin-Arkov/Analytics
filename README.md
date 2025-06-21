@@ -80,6 +80,9 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJLNNBYXEjCiKgNeMa5ixi6
 
 - не нужно загружать блокнот IPYNB на облачный диск - это лишние действия и для студента, и для преподавателя. Неправильная ссылка будет выглядеть так: https://drive.google.com/drive/folders/..... Лучше просто открыть доступ.
 
+### Зачет по результатам выполнения заданий
+
+![Zachot](https://github.com/Valentin-Arkov/Analytics/blob/main/201-333-Zachot.jpg)
 
 ## Лабораторные работы
 
