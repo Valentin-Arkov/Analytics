@@ -1,6 +1,8 @@
 # Analytics
 Бизнес-аналитика, статистика, эконометрика, машинное обучение
 
+![No access](https://github.com/Valentin-Arkov/Analytics/blob/main/Ein-mem.jpeg)
+
 # Машинное обучение 2025
 
 [Введение - слайды](https://github.com/Valentin-Arkov/Analytics/blob/main/ML-01-Intro.pdf)
