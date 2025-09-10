@@ -1,6 +1,10 @@
 # Практика 1
 
-[Датасет 2025 ПИ 4к](https://github.com/Valentin-Arkov/Analytics/blob/main/Dataset-2025.xlsx)
+## Датасет 2025 ПИ 4к
+
+[XLSX](https://github.com/Valentin-Arkov/Analytics/blob/main/Dataset-2025.xlsx)
+
+[CSV](https://github.com/Valentin-Arkov/Analytics/blob/main/Dataset-2025.csv)
 
 # Analytics
 Бизнес-аналитика, статистика, эконометрика, машинное обучение
