@@ -28,6 +28,17 @@
 
 Рекомендуем перед отправкой ссылки проверить ее работоспособность. Например, можно открыть ссылку в другом браузере, где вы не авторизованы на облачном диске.
 
+## Лабораторные работы
+
+[Описание ЛР1](https://ridero.ru/books/analiz_raspredeleniya_v_excel/)
+
+[Описание ЛР2](https://ridero.ru/books/statisticheskii_analiz_vzaimosvyazi_v_excel/)
+
+[Описание ЛР3](https://ridero.ru/books/analiz_ryadov_dinamiki_v_excel/)
+
+[Описание ЛР4](https://ridero.ru/books/biznes-analitika_v_excel_svodnye_tablicy/)
+
+
 
 ## Видеоролики - лекции и лабы
 
@@ -58,19 +69,6 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ_EhZOfFLi1SvIJZ4t7AVG
 Качество
 
 https://www.youtube.com/playlist?list=PLgkPUa9zaIkJLNNBYXEjCiKgNeMa5ixi6
-
-## Лабораторные работы
-
-### Лабораторные работы
-
-[Описание ЛР1](https://ridero.ru/books/analiz_raspredeleniya_v_excel/)
-
-[Описание ЛР2](https://ridero.ru/books/statisticheskii_analiz_vzaimosvyazi_v_excel/)
-
-[Описание ЛР3](https://ridero.ru/books/analiz_ryadov_dinamiki_v_excel/)
-
-[Описание ЛР4](https://ridero.ru/books/biznes-analitika_v_excel_svodnye_tablicy/)
-
 
 ## Учебные пособия
 
