@@ -1,5 +1,7 @@
 # Лекция 01. Введение в аналитику данных
 
+[Ссылка на собственный блокнот Colab](https://forms.yandex.ru/u/6abe9f0895add59492759807/)
+
 ## Работа в Colab
 
 Задания по анализу данных мы выполняем в Google Colab. "Колаб" - это "ко-лаборатория", то есть "лаборатория для совместной работы". Здесь мы знакомимся с технологией анализа данных и с технологией организации совместной работы. 
@@ -14,7 +16,6 @@
 
 - не нужно загружать блокнот IPYNB на облачный диск - это лишние действия и для студента, и для преподавателя. Неправильная ссылка будет выглядеть так: https://drive.google.com/drive/folders/..... Лучше просто открыть доступ.
 
-[Colab](https://forms.yandex.ru/u/6abe9f0895add59492759807/)
 
 ![No access](https://github.com/Valentin-Arkov/Analytics/blob/main/Ein-mem.jpeg)
 
@@ -27,18 +28,6 @@
 
 Рекомендуем перед отправкой ссылки проверить ее работоспособность. Например, можно открыть ссылку в другом браузере, где вы не авторизованы на облачном диске.
 
-
-## Полезные ссылки
-
-[Школа анализа данных Яндекса. Учебник по машинному обучению](https://education.yandex.ru/handbook/ml)
-
-[Введение в Data Science и машинное обучение. Курс Анатолия Карпова на Степике](https://stepik.org/course/4852/)
-
-[Документация библиотеки  SciKitLearn](https://scikit-learn.org/)
-
-[Google for Developers. Machine Learning](https://developers.google.com/machine-learning)
-
-[Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Видеоролики - лекции и лабы
 
@@ -181,6 +170,18 @@ https://ieeexplore.ieee.org/document/10110722
 [Регрессия - слайды](https://github.com/Valentin-Arkov/Analytics/blob/main/ML_2025_Regression.pdf)
 
 [Робастная регрессия - блокнот](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Robust_regression.ipynb)
+
+## Полезные ссылки
+
+[Школа анализа данных Яндекса. Учебник по машинному обучению](https://education.yandex.ru/handbook/ml)
+
+[Введение в Data Science и машинное обучение. Курс Анатолия Карпова на Степике](https://stepik.org/course/4852/)
+
+[Документация библиотеки  SciKitLearn](https://scikit-learn.org/)
+
+[Google for Developers. Machine Learning](https://developers.google.com/machine-learning)
+
+[Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Кластеризация, классификация, снижение размерности - блокнот](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Clusterization.ipynb)
 
