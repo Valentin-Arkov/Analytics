@@ -61,37 +61,16 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJLNNBYXEjCiKgNeMa5ixi6
 
 ## Лабораторные работы
 
-### Лабораторная работа №1
+### Лабораторные работы
 
 [Описание ЛР1](https://ridero.ru/books/analiz_raspredeleniya_v_excel/)
 
-[ПИ-201бзу. Отчет по лабораторной работе №1](https://forms.yandex.ru/u/672710dc90fa7bdae43fffed/)
-
-[ПИ-333бз. Отчет по лабораторной работе №1](https://forms.yandex.ru/u/6727134c73cee705a2c6812e/)
-
-### Лабораторная работа №2
-
 [Описание ЛР2](https://ridero.ru/books/statisticheskii_analiz_vzaimosvyazi_v_excel/)
-
-[ПИ-201бзу. Отчет по лабораторной работе №2](https://forms.yandex.ru/u/672713c8068ff038c49168cf/)
-
-[ПИ-333бз. Отчет по лабораторной работе №2](https://forms.yandex.ru/u/67271430e010db387df0380d/)
-
-### Лабораторная работа №3
 
 [Описание ЛР3](https://ridero.ru/books/analiz_ryadov_dinamiki_v_excel/)
 
-[ПИ-201бзу. Отчет по лабораторной работе №3](https://forms.yandex.ru/u/672715122530c27390deec35/)
-
-[ПИ-333бз. Отчет по лабораторной работе №3](https://forms.yandex.ru/u/6727157f73cee705e0c68124/)
-
-### Лабораторная работа №4
-
 [Описание ЛР4](https://ridero.ru/books/biznes-analitika_v_excel_svodnye_tablicy/)
 
-[ПИ-201бзу. Отчет по лабораторной работе №4](https://forms.yandex.ru/u/672715cd2530c273b4deec1b/)
-
-[ПИ-333бз. Отчет по лабораторной работе №4](https://forms.yandex.ru/u/6727160ee010db3895f03815/)
 
 ## Учебные пособия
 
