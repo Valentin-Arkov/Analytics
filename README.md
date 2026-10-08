@@ -1,8 +1,8 @@
 # Лекции
 
-[АДПИИ ИВТ-401 Лекция 1](https://forms.yandex.ru/u/6ac7296ae010dbd56f4bb99d)
+[Форма загрузки ИВТ-401 Лекция 01](https://forms.yandex.ru/u/6ac7296ae010dbd56f4bb99d)
 
-[БАиБД 4к Лекция 02](https://forms.yandex.ru/u/6ac72a7195add5d893d88038)
+[Форма загрузки ПИ-4к Лекция 02](https://forms.yandex.ru/u/6ac72a7195add5d893d88038)
 
 [01 Введение](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-01-Colab.pdf)
 
