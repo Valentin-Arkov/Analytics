@@ -5,7 +5,7 @@
 
 [АДПИИ ИВТ-401 Лекция 1](https://forms.yandex.ru/u/6ac7296ae010dbd56f4bb99d)
 
-## Лекция 02. Инструменты
+[02 Инструменты](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-02-Dashboard.pdf)
 
 [БАиБД 4к Лекция 02](https://forms.yandex.ru/u/6ac72a7195add5d893d88038)
 
