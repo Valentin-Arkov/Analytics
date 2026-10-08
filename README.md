@@ -5,6 +5,7 @@
 [БАиБД 4к Лекция 02](https://forms.yandex.ru/u/6ac72a7195add5d893d88038)
 
 [01 Введение](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-01-Colab.pdf)
+
 [02 Инструменты](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-02-Dashboard.pdf)
 
 # Практика
