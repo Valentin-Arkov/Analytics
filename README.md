@@ -11,9 +11,9 @@
 
 # Практики
 
-## Практика 01
+[Загрузка ссылок на Отчеты в Колаб](https://forms.yandex.ru/u/6ac31a92f47e73287104985f)
 
-[Колаб](https://forms.yandex.ru/u/6ac31a92f47e73287104985f)
+[01 Датасет](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-PR-01-Dataset.pdf)
 
 # Комментарии
 
