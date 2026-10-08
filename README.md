@@ -1,15 +1,13 @@
 # Лекции
 
-## Лекция 01. Введение в аналитику данных
-Инструменты: Python - Colab - MarkDown - TeX - Греческий алфавит
-
 [АДПИИ ИВТ-401 Лекция 1](https://forms.yandex.ru/u/6ac7296ae010dbd56f4bb99d)
-
-[02 Инструменты](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-02-Dashboard.pdf)
 
 [БАиБД 4к Лекция 02](https://forms.yandex.ru/u/6ac72a7195add5d893d88038)
 
-# Практики
+[01 Введение](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-01-Colab.pdf)
+[02 Инструменты](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-02-Dashboard.pdf)
+
+# Практика
 
 [Загрузка ссылок на Отчеты в Колаб](https://forms.yandex.ru/u/6ac31a92f47e73287104985f)
 
