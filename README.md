@@ -1,6 +1,6 @@
 # Лекции
 
-[Форма загрузки отчетов ИВТ-401 Лекция 01](https://forms.yandex.ru/u/6ac7296ae010dbd56f4bb99d)
+[Форма загрузки отчетов ИВТ-401 Лекции](https://forms.yandex.ru/u/6ac7296ae010dbd56f4bb99d)
 
 [Форма загрузки отчетов ПИ-4к Лекция 02](https://forms.yandex.ru/u/6ac72a7195add5d893d88038)
 
