@@ -1,8 +1,10 @@
-# Лекции
+# Отчеты
 
 [Форма загрузки отчетов ИВТ-401 Лекции](https://forms.yandex.ru/u/6ac7296ae010dbd56f4bb99d)
 
 [Форма загрузки отчетов ПИ-4к Лекция 02](https://forms.yandex.ru/u/6ac72a7195add5d893d88038)
+
+# Лекции
 
 [01 Введение](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-01-Colab.pdf)
 
