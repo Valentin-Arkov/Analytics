@@ -2,7 +2,9 @@
 
 [Форма загрузки отчетов ИВТ-401 Лекции](https://forms.yandex.ru/u/6ac7296ae010dbd56f4bb99d)
 
-[Форма загрузки отчетов ПИ-4к Лекция 02](https://forms.yandex.ru/u/6ac72a7195add5d893d88038)
+[Форма загрузки отчетов ПИ-4к Лекции](https://forms.yandex.ru/u/6ac72a7195add5d893d88038)
+
+[Форма загрузки отчетов ПИ-4к Практики](https://forms.yandex.ru/u/6ac31a92f47e73287104985f)
 
 # Лекции
 
@@ -11,8 +13,6 @@
 [02 Инструменты](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-02-Dashboard.pdf)
 
 # Практика
-
-[Форма загрузки отчетов](https://forms.yandex.ru/u/6ac31a92f47e73287104985f)
 
 [01 Датасет](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-PR-01-Dataset.pdf)
 
