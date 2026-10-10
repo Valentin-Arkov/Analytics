@@ -12,7 +12,7 @@
 
 [02 Инструменты](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-02-Dashboard.pdf)
 
-[03 ПОказатели](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-03-Indicators.pdf)
+[03 Показатели](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-03-Indicators.pdf)
 
 [04 OLAP](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-04-OLAP.pdf)
 
@@ -50,7 +50,7 @@
 
 ## Лабораторные работы
 
-[Описание ЛР1](https://ridero.ru/books/analiz_raspredeleniya_v_excel/)
+[ЛР 1 Анализ распределения в электронных таблицах](https://ridero.ru/books/analiz_raspredeleniya_v_excel/)
 
 [Описание ЛР2](https://ridero.ru/books/statisticheskii_analiz_vzaimosvyazi_v_excel/)
 
@@ -92,9 +92,7 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJLNNBYXEjCiKgNeMa5ixi6
 
 ## Учебные пособия
 
-Арьков В.Ю. Анализ распределения в электронных таблицах : Учебное пособие. — [б. м.] : Издательские решения, 2019. — 158 с.
 
-https://ridero.ru/books/analiz_raspredeleniya_v_excel/
 
 Арьков В.Ю. Статистический анализ взаимосвязи : Учебное пособие. — [б. м.] : Издательские решения, 2019. — 146 с.
 
