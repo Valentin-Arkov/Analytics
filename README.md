@@ -12,6 +12,8 @@
 
 [02 Инструменты](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-02-Dashboard.pdf)
 
+[03 ПОказатели](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-03-Indicators.pdf)
+
 # Практика
 
 [01 Датасет](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-PR-01-Dataset.pdf)
