@@ -14,6 +14,8 @@
 
 [03 ПОказатели](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-03-Indicators.pdf)
 
+[04 OLAP](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-04-OLAP.pdf)
+
 # Практика
 
 [01 Датасет](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-PR-01-Dataset.pdf)
