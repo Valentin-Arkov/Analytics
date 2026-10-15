@@ -16,6 +16,8 @@
 
 [04 OLAP](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-04-OLAP.pdf)
 
+[05 Средние](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-05-AVG.pdf)
+
 # Практика
 
 [01 Датасет](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-PR-01-Dataset.pdf)
