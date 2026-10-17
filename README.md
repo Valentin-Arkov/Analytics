@@ -20,6 +20,8 @@
 
 [05 Средние](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-05-AVG.pdf)
 
+[06-07 Распределение](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-06-07-Distrib.pdf)
+
 # Практика
 
 [01 Датасет](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-PR-01-Dataset.pdf)
