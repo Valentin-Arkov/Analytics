@@ -26,6 +26,8 @@
 
 [01 Датасет](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-PR-01-Dataset.pdf)
 
+[Датасет для анализа](https://clck.ru/3WZ89A)
+
 # Комментарии
 
 ## Работа в Colab
