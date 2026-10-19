@@ -10,6 +10,8 @@
 
 [Форма загрузка отчетов - заочники](https://forms.yandex.ru/u/6ad5b87f6d2d735426a5a90f)
 
+[Отчеты по лабам - заочники](https://forms.yandex.ru/u/6ad600a549af471300b7c96d)
+
 # Лекции
 
 [01 Введение](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-01-Colab.pdf)
