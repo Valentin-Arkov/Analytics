@@ -8,6 +8,8 @@
 
 [Форма загрузки отчетов ПИ-4к Практики](https://forms.yandex.ru/u/6ac31a92f47e73287104985f)
 
+[Форма загрузка отчетов - заочники](https://forms.yandex.ru/u/6ad5b87f6d2d735426a5a90f)
+
 # Лекции
 
 [01 Введение](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-L-01-Colab.pdf)
