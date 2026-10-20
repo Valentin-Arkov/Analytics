@@ -62,13 +62,17 @@
 
 ## Лабораторные работы
 
-[ЛР 1 Анализ распределения в электронных таблицах](https://ridero.ru/books/analiz_raspredeleniya_v_excel/)
+[ЛР1 Распределение](https://ridero.ru/books/analiz_raspredeleniya_v_excel/)
+[Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2020-Distribution.pdf)
 
-[Описание ЛР2](https://ridero.ru/books/statisticheskii_analiz_vzaimosvyazi_v_excel/)
+[ЛР2 Взаимосвязь](https://ridero.ru/books/statisticheskii_analiz_vzaimosvyazi_v_excel/)
+[Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2020-Correlation.pdf)
 
-[Описание ЛР3](https://ridero.ru/books/analiz_ryadov_dinamiki_v_excel/)
+[ЛР3 Динамика](https://ridero.ru/books/analiz_ryadov_dinamiki_v_excel/)
+[Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2020-Dynamics.pdf)
 
-[Описание ЛР4](https://ridero.ru/books/biznes-analitika_v_excel_svodnye_tablicy/)
+[ЛР4 OLAP](https://ridero.ru/books/biznes-analitika_v_excel_svodnye_tablicy/)
+[Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2020-Pivot-1.pdf)
 
 
 
@@ -193,4 +197,5 @@ https://ieeexplore.ieee.org/document/10110722
 [Кластеризация, классификация, снижение размерности - блокнот](https://github.com/Valentin-Arkov/Analytics/blob/main/Machine_Learning_2025_Clusterization.ipynb)
 
 [Примеры экзаменационных билетов](https://ridero.ru/books/analitika_dannykh/)
+[Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2025-Analytics-exam.pdf)
 
