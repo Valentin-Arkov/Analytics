@@ -34,6 +34,8 @@
 
 [Датасет для анализа](https://clck.ru/3WZ89A)
 
+[2026-10-19 Заочники](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-day-1.pdf)
+
 # Комментарии
 
 ## Работа в Colab
