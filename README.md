@@ -36,6 +36,8 @@
 
 [2026-10-19 Заочники](https://github.com/Valentin-Arkov/Analytics/blob/main/files/BI-day-1.pdf)
 
+[Датасет для заочников](https://github.com/Valentin-Arkov/Analytics/blob/main/files/cleaned_data.csv)
+
 # Комментарии
 
 ## Работа в Colab
